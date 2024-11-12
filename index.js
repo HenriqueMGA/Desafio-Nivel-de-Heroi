@@ -20,4 +20,4 @@ if (experienciaDoHeroi <= 1000) {
     nivelDoHeroi = "Radiante"
 }
 
-console.log(`O Herói de nome: ${nomeDoHeroi} está no nível: ${nivelDoHeroi}`)
+console.log(`O Herói de nome: ${nomeDoHeroi}, está no nível: ${nivelDoHeroi}, com: ${experienciaDoHeroi} pontos de experiência`)
