@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Henrique"
-let experienciaDoHeroi = Math.floor(Math.random() * (10001 - 1000) + 1000)
+let experienciaDoHeroi = Math.floor(Math.random() * (11000 - 1000) + 1000)
 let nivelDoHeroi = ""
 
 if (experienciaDoHeroi <= 1000) {
